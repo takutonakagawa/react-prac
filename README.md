@@ -1,2 +1,2 @@
-# react-prac
+# react-practice
 Created with CodeSandbox
